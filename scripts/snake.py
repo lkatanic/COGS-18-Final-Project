@@ -227,6 +227,7 @@ class Snake():
             output += "||\n"
             i += 1
 
+
         # draw bottom of board
         i = 0
         while i < self.size * 2 + 3:
